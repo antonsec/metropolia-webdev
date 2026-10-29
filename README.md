@@ -2,7 +2,7 @@
 
 ### JS Modules 1 and 2 — Interactive Programs and Control Structures
 
-**Published assignments:** [Metropolia Server](https://users.metropolia.fi/~YOUR_USERNAME/javascript/module-1-2/)
+**Published assignments:** [Metropolia Server](https://users.metropolia.fi/~pierree/javascript/module-1-2/)
 
 **Completed assignments:**
 
@@ -17,6 +17,6 @@
 
 **Notes:**
 
-Completed the first six assignments using JavaScript, including user input, conditional statements, random number generation, mathematical operations, and DOM manipulation.
+Completed the first six assignments using JavaScript, including user input, conditional statements, random number generation, mathematical operations and DOM manipulation.
 
 Source code is organized into separate HTML and JavaScript files for each task.
