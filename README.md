@@ -6,19 +6,19 @@
 
 **Completed assignments:**
 
-- Task 1: Print to console — 1p
-- Task 2: Greet the user — 2p
-- Task 3: Sum, product and average — 3p
-- Task 4: Hogwarts Sorting Hat — 3p
-- Task 5: Leap Year Checker — 3p
-- Task 6: Square Root Calculator — 3p
-- Task 7: Random Dice Generator - 2p
-- Task 8: Leap year Checker 2 - 3p
+- Task 1: Print to Console — 1 p
+- Task 2: Greet the User — 2 p
+- Task 3: Sum, Product and Average — 3 p
+- Task 4: Hogwarts Sorting Hat — 3 p
+- Task 5: Leap Year Checker — 3 p
+- Task 6: Square Root Calculator — 3 p
+- Task 7: Dice Roller — 2 p
+- Task 8: Leap Years in a Range — 3 p
 
-**Total: 15 / 27 points**
+**Total: 20 / 27 points**
 
 **Notes:**
 
-Completed the first six assignments using JavaScript, including user input, conditional statements, random number generation, mathematical operations and DOM manipulation.
+Completed the first eight assignments using JavaScript, covering user input, conditional statements, loops, random number generation, mathematical operations, and DOM manipulation.
 
-Source code is organized into separate HTML and JavaScript files for each task.
+Each assignment is organized into its own folder with separate HTML and JavaScript files.
