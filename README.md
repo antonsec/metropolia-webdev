@@ -6,12 +6,14 @@
 
 **Completed assignments:**
 
-- Task 1: Print to console — 1 p
-- Task 2: Greet the user — 2 p
-- Task 3: Sum, product and average — 3 p
-- Task 4: Hogwarts Sorting Hat — 3 p
-- Task 5: Leap Year Checker — 3 p
-- Task 6: Square Root Calculator — 3 p
+- Task 1: Print to console — 1p
+- Task 2: Greet the user — 2p
+- Task 3: Sum, product and average — 3p
+- Task 4: Hogwarts Sorting Hat — 3p
+- Task 5: Leap Year Checker — 3p
+- Task 6: Square Root Calculator — 3p
+- Task 7: Random Dice Generator - 2p
+- Task 8: Leap year Checker 2 - 3p
 
 **Total: 15 / 27 points**
 
