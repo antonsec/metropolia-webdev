@@ -99,7 +99,7 @@ footer a {
   color: #3d3832;
 }
 
-/* Products section */
+/* Products page */
 .products {
   display: flex;
   gap: 25px;
@@ -138,7 +138,6 @@ footer a {
 }
 
 /* Contact page */
-/* Contact page layout */
 .contact {
   display: flex;
   gap: 40px;
