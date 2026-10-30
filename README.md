@@ -14,11 +14,13 @@
 - Task 6: Square Root Calculator — 3 p
 - Task 7: Dice Roller — 2 p
 - Task 8: Leap Years in a Range — 3 p
+- Task 9: Prime Checker - 2 p
+- Task 10: Dice Probability - 5 p
 
-**Total: 20 / 27 points**
+**Total: 27 / 27 points**
 
 **Notes:**
 
-Completed the first eight assignments using JavaScript, covering user input, conditional statements, loops, random number generation, mathematical operations, and DOM manipulation.
+Completed all assignments using JavaScript, covering user input, conditional statements, loops, random number generation, mathematical operations, and DOM manipulation.
 
 Each assignment is organized into its own folder with separate HTML and JavaScript files.
