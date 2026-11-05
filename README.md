@@ -1,10 +1,11 @@
-## Software 2 Programming Assignments
 
-### JS Modules 1 and 2 — Interactive Programs and Control Structures
+# Software 2 Programming Assignments
+
+## JS Modules 1 and 2 — Interactive Programs and Control Structures
 
 **Published assignments:** [Metropolia Server](https://users.metropolia.fi/~pierree/javascript/module-1-2/)
 
-**Completed assignments:**
+### Completed Assignments
 
 - Task 1: Print to Console — 1 p
 - Task 2: Greet the User — 2 p
@@ -14,13 +15,35 @@
 - Task 6: Square Root Calculator — 3 p
 - Task 7: Dice Roller — 2 p
 - Task 8: Leap Years in a Range — 3 p
-- Task 9: Prime Checker - 2 p
-- Task 10: Dice Probability - 5 p
+- Task 9: Prime Checker — 2 p
+- Task 10: Dice Probability — 5 p
 
 **Total: 27 / 27 points**
 
-**Notes:**
+### Notes
 
 Completed all assignments using JavaScript, covering user input, conditional statements, loops, random number generation, mathematical operations, and DOM manipulation.
 
 Each assignment is organized into its own folder with separate HTML and JavaScript files.
+
+---
+
+## JS Module 3 — Arrays and Functions
+
+### Completed Assignments
+
+- Task 1: Reverse Five Numbers — 2 p
+- Task 2: Participants in Alphabetical Order — 2 p
+- Task 3: Dog Names in Reverse Alphabetical Order — 2 p
+- Task 4: Numbers in Descending Order — 2 p
+- Task 5: Detect Duplicate Numbers — 2 p
+
+**Total: 10 / 27 points**
+
+### Remaining Assignments
+
+- Task 6: Dice Rolling Function — 2 p
+- Task 7: Dice Rolling with Custom Sides — 2 p
+- Task 8: Concatenate Strings — 2 p
+- Task 9: Filter Even Numbers — 3 p
+- Task 10: Voting Program — 8 p
