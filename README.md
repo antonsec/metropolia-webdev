@@ -47,3 +47,17 @@ Each assignment is organized into its own folder with separate HTML and JavaScri
 - Task 8: Concatenate Strings — 2 p
 - Task 9: Filter Even Numbers — 3 p
 - Task 10: Voting Program — 8 p
+
+---
+
+## JS Module 4 — DOM and Events
+
+### Completed Assignments
+
+- Task 1: Adding HTML with innerHTML — 2 p
+- Task 2: Creating and Appending Elements — 2 p
+- Task 3: Generating List Items from an Array — 2 p
+- Task 4: Creating Dropdown Options — 2 p
+- Task 5: Generating Articles from picArray — 5 p
+
+**Total: 13 / 32 points**
