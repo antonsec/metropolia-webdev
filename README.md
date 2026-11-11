@@ -19,6 +19,7 @@
 - Task 10: Dice Probability — 5 p
 
 **Total: 27 / 27 points**
+---
 
 ## JS Module 3 — Arrays and Functions
 
@@ -31,15 +32,6 @@
 - Task 5: Detect Duplicate Numbers — 2 p
 
 **Total: 10 / 27 points**
-
-### Remaining Assignments
-
-- Task 6: Dice Rolling Function — 2 p
-- Task 7: Dice Rolling with Custom Sides — 2 p
-- Task 8: Concatenate Strings — 2 p
-- Task 9: Filter Even Numbers — 3 p
-- Task 10: Voting Program — 8 p
-
 ---
 
 ## JS Module 4 — DOM and Events
