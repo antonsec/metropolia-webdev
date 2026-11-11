@@ -20,14 +20,6 @@
 
 **Total: 27 / 27 points**
 
-### Notes
-
-Completed all assignments using JavaScript, covering user input, conditional statements, loops, random number generation, mathematical operations, and DOM manipulation.
-
-Each assignment is organized into its own folder with separate HTML and JavaScript files.
-
----
-
 ## JS Module 3 — Arrays and Functions
 
 ### Completed Assignments
