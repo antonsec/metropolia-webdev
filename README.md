@@ -19,7 +19,6 @@
 - Task 10: Dice Probability — 5 p
 
 **Total: 27 / 27 points**
----
 
 ## JS Module 3 — Arrays and Functions
 
@@ -32,7 +31,6 @@
 - Task 5: Detect Duplicate Numbers — 2 p
 
 **Total: 10 / 27 points**
----
 
 ## JS Module 4 — DOM and Events
 
