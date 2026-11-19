@@ -41,5 +41,13 @@
 - Task 3: Generating List Items from an Array — 2 p
 - Task 4: Creating Dropdown Options — 2 p
 - Task 5: Generating Articles from picArray — 5 p
+- Task 6: Button Click Alert — 1 p
 
-**Total: 13 / 32 points**
+**Total: 14 / 32 points**
+
+## Python Flask — Web Servers
+
+- Task 1: Prime Number API — 4 p
+- Task 2: English–Finnish Translation API — 10 p
+
+**Total: 14 / 20 points**
